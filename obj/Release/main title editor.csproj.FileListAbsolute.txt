@@ -1,0 +1,8 @@
+c:\Users\Kang\Documents\Visual Studio 2015\Projects\main title editor\main title editor\obj\Release\main_title_editor.Form1.resources
+c:\Users\Kang\Documents\Visual Studio 2015\Projects\main title editor\main title editor\obj\Release\main_title_editor.Properties.Resources.resources
+c:\Users\Kang\Documents\Visual Studio 2015\Projects\main title editor\main title editor\obj\Release\main title editor.csproj.GenerateResource.Cache
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\main title editor\main title editor\bin\Release\DCG Main Title Editor.exe.config
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\main title editor\main title editor\bin\Release\DCG Main Title Editor.exe
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\main title editor\main title editor\bin\Release\DCG Main Title Editor.pdb
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\main title editor\main title editor\obj\Release\DCG Main Title Editor.exe
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\main title editor\main title editor\obj\Release\DCG Main Title Editor.pdb
